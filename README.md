@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vivekkumar38ad@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1waUhCITN3Vs0GYEMeISHup2OzPVLzXUO/edit?usp=sharing&ouid=113031459250725618256&rtpof=true&sd=true](https://docs.google.com/document/d/1waUhCITN3Vs0GYEMeISHup2OzPVLzXUO/edit?usp=sharing&ouid=113031459250725618256&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TQvQiDAus3uNA86DZ3d0BoypS0VikDOZ/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
