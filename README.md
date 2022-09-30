@@ -11,11 +11,11 @@
 
 - 👯I have completed project [SHOPPER STOP](https://steady-bavarois-32dc0a.netlify.app/)
 
-- 🤝 I have completed project [APOLLO 247](https://dapper-chebakia-d4e762.netlify.app/")
+- 🤝 I have completed project [APOLLO 247](https://dapper-chebakia-d4e762.netlify.app/)
 
-- 🤝 I have completed project [INDIEGOGO](https://the-awesome-vivek-kumar-site-fe76f.netlify.app/")
+- 🤝 I have completed project [INDIEGOGO](https://the-awesome-vivek-kumar-site-fe76f.netlify.app/)
 
-- 🤝 I have completed project [Book Rent App](https://dapper-chebakia-d4e762.netlify.app/")
+- 🤝 I have completed project [Book Rent App](https://dapper-chebakia-d4e762.netlify.app/)
 
 - 📝 I write articles on [https://medium.com/@vivekkumar38ad](https://medium.com/@vivekkumar38ad)
 
