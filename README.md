@@ -17,7 +17,7 @@
 
 - 🤝 I have completed project [INDIEGOGO](https://the-awesome-vivek-kumar-site-fe76f.netlify.app/)
 
-- 🤝 I have completed project [Book Rent App](https://cosmic-sherbet-3aa498.netlify.app/)
+- 🤝 I have completed project [Book Rent App](https://sparkling-malabi-b3336e.netlify.app/)
 
 - 📝 I write articles on [https://medium.com/@vivekkumar38ad](https://medium.com/@vivekkumar38ad)
 
