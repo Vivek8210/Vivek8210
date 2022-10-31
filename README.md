@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
--My Portfolio (https://vivek-kumar32.netlify.app/)
+-My Portfolio (https://bright-cendol-f7d09d.netlify.app/)
 
 - 🔭 I have completed project [DERMSTORE](https://practical-lewin-786876.netlify.app)
 
