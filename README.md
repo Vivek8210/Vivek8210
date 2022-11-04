@@ -11,7 +11,6 @@
 
 
 - 🤝 I have completed project [Book Rent App](https://benevolent-crepe-44fb54.netlify.app//) 
-- 
 - 🤝 I have completed project [Leave App](https://tubular-elf-35d145.netlify.app/login)
 
 - 👯I have completed project [SHOPPER STOP](https://steady-bavarois-32dc0a.netlify.app/)
