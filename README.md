@@ -9,7 +9,7 @@
 
 -My Portfolio (https://vivekkumar58.netlify.app/)
 
-- I have completed project [anthropologie](anthropologieee.netlify.app)
+- I have completed project [anthropologie](anthropologieee.netlify.app/)
 - I have completed project [SHOPPER STOP](https://steady-bavarois-32dc0a.netlify.app/)
 - - 🤝 I have completed project [APOLLO 247](https://dapper-chebakia-d4e762.netlify.app/)
 
